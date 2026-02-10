@@ -6,7 +6,6 @@ Upload your ID → Verify your identity → Get personalized benefit recommendat
 
 ## Features
 
-- **AI-Powered OCR** — Extracts details from Aadhaar, Voter ID, and other government IDs using Google Gemini Vision
 - **Face Verification** — 3-angle selfie capture (front, left, right) for identity verification
 - **Smart Recommendations** — Rule-based eligibility scoring matches users to welfare schemes
 - **Admin Panel** — Manage schemes, view user profiles, monitor applications
@@ -20,7 +19,6 @@ Upload your ID → Verify your identity → Get personalized benefit recommendat
 | Language | TypeScript 5.9 |
 | UI | shadcn/ui + Tailwind CSS 4 + Framer Motion |
 | Auth & DB | Supabase (Auth, PostgreSQL, Storage, RLS) |
-| AI/OCR | Google Gemini 1.5 Flash |
 | Camera | react-webcam |
 | Package Manager | pnpm |
 
